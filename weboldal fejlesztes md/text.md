@@ -4,7 +4,7 @@
 A Szórólapot és a Plakátot Márk csinálta
 szorólap:
 > ![alt text](szorolap IKT.png) 
-![image](files/Users/Szecsko/Desktop/szorolap IKT.png)
+
 plakát:
 > ![alt text](IKT PLAKAT.png) 
 
