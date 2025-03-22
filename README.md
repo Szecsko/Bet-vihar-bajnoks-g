@@ -1,1 +1,0 @@
-# Bet-vihar-bajnoks-g
